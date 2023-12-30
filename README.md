@@ -8,9 +8,7 @@ This repository is a collection of solutions to various problems from Geeks for 
 
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
 - [Code Style](#code-style)
-- [License](#license)
 
 ## Getting Started
 
@@ -21,6 +19,14 @@ Make sure you have the following installed:
 - Your preferred programming language and compiler
 - Code editor (e.g., Visual Studio Code, Sublime Text, etc.)
 - Version control system (e.g., Git)
+
+## Folder Structure
+
+The repository is organized by categories and problem names. Each problem solution is contained within its own directory, along with the source code file and any additional resources.
+
+## Code Style
+
+Maintain a consistent code style to enhance readability. Please follow the style guide for your chosen programming language. If there's no specific style guide, aim for clean, well-documented, and modular code
 
 ### Cloning the Repository
 
