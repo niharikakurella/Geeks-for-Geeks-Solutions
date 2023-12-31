@@ -33,6 +33,13 @@ Maintain a consistent code style to enhance readability. Please follow the style
 ```bash
 git clone https://github.com/niharikakurella/Geeks-for-Geeks-Solutions.git
 cd Geeks-for-Geeks-Solutions
+```
 
 
 Make sure to replace placeholders like `niharikakurella` with your actual GitHub username. Additionally, consider adding a `CONTRIBUTING.md` file with detailed contribution guidelines if needed.
+
+## Contributing
+Contributions are welcome! Fork the repository, create a new branch, make your changes, and submit a pull request. Please follow the contribution guidelines.
+
+## Contact
+For questions or feedback, contact us at niharikakurella@gmail.com.
